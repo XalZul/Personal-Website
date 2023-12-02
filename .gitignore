@@ -1,0 +1,8 @@
+*.zip
+package-lock.json
+yarn.lock
+package.json
+Mockup/
+node_modules/
+public/
+src/
