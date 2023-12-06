@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-cp -r ./ ../
+cd build && cp -r * ../
